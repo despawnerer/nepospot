@@ -762,7 +762,6 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "mediawiki",
- "serde_json",
  "tokio",
 ]
 
