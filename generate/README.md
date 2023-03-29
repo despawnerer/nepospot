@@ -1,6 +1,6 @@
 # NepoSpot (Generate)
 
-Binary that generates [`nepos.csv`](../data/nepos.csv) from wikidata.
+Binary that generates [`people.rs`](../people/src/people.rs) module from WikiData.
 
 ## Running
 

@@ -6,8 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-nepospot-library = { path = "../library" }
-csv = "1"
+nepospot-people = { path = "../people" }
 lambda_http = "0.7"
 serde = "1"
 serde_json = "1"

@@ -1,6 +1,6 @@
 # NepoSpot (Serve)
 
-Lambda that decides whether somebody is a nepo baby, or not, using data from [`nepos.csv`](../data/nepos.csv).
+Lambda that decides whether somebody is a nepo baby, or not, using data from [`people`](../people).
 
 ## Prerequsites
 

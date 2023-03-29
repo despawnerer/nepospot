@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "generate",
-    "library",
+    "people",
     "serve"
 ]
 resolver = "2"
